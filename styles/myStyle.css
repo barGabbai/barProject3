@@ -1126,6 +1126,8 @@ position: absolute;
 
 
 .row100, .row {
+        width: 100vw;
+
 }
 
 #contactInformation{
@@ -2797,6 +2799,7 @@ display:none;
             border: none;
             height: 60px;
             padding-top: 3px;
+            padding-right:0px;
         }
 
         #historyCard {
