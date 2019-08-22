@@ -2835,6 +2835,7 @@ display:none;
         .imgHamNav {
             margin-top: -12px;
             transition: .9s ease !important;
+            margin-right:-25px;
             padding: 10px;
             background-color: #fff;
             border-radius: 50%;
