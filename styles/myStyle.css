@@ -2834,15 +2834,16 @@ display:none;
             }
 
 .btn{
-    padding:0;
+    padding-right:0;
         }
         .imgHamNav {
             margin-top: -12px;
             transition: .9s ease !important;
             padding: 10px;
+                        margin-right:-35px;
+
             background-color: #fff;
             border-radius: 50%;
-            margin-right:-35px;
         }
 
 
