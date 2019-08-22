@@ -2796,7 +2796,7 @@ display:none;
             border: none;
             height: 60px;
             padding-top: 3px;
-            padding:0;
+            padding-right:0;
         }
 
         #historyCard {
